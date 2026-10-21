@@ -34,3 +34,8 @@ MainMenuManager: MainMenu, WinMenu, GameOverMenu scenes.
 
 Isometric camera that follows the player
 
+
+# Known bug:
+Enemies can overlap the player because they keep moving until they reach the player's center. This is more visible with the red chaser ball.
+
+
