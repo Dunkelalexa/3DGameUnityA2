@@ -2,9 +2,13 @@
 
 # How to play
 Open the MainMenu scene first then press Play. Collect 100 points to win by picking up the coins and killing enemies.
+
 coins: 5 points
+
 Red Enemy: 5 points
+
 Blue Enemy: 10 points
+
 Green Enemy: 20 points
 
 # Controls
