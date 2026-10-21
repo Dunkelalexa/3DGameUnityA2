@@ -12,8 +12,7 @@ Green Enemy: 20 points
 |---|---|
 | <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> | Move |
 | <kbd>Left Click</kbd> | Shoot a paintball where the player is facing |
-| <kbd>Mouse</kbd> | Click menu buttons |
-The game started from the paintball project made in class.
+
 
 # Added by me for the assignment:
 
